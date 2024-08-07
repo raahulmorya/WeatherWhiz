@@ -1,0 +1,122 @@
+{
+    "location": {
+        "city": "Jalandhar",
+      
+        "country": "India",
+        "lat": 31.302299,
+        "long": 75.601349,
+        "timezone_id": "Asia/Kolkata"
+    },
+    "current_observation": {
+        
+        "wind": {
+            "chill": 104,
+            "direction": "SE",
+            "speed": 8
+        },
+        "atmosphere": {
+            "humidity": 59,
+            "visibility": 10,
+            "pressure": 994.2
+        },
+        "astronomy": {
+            "sunrise": "5:40 AM",
+            "sunset": "7:28 PM"
+        },
+        "condition": {
+            "temperature": 93,
+            "text": "Partly Cloudy",
+            "code": 30
+        }
+    },
+    "forecasts": [
+        {
+            "day": "Wed",
+            "date": 1721836800,
+            "high": 94,
+            "low": 81,
+            "text": "Mostly Sunny",
+            "code": 34
+        },
+        {
+            "day": "Thu",
+            "date": 1721923200,
+            "high": 95,
+            "low": 78,
+            "text": "Thunderstorms",
+            "code": 4
+        },
+        {
+            "day": "Fri",
+            "date": 1722009600,
+            "high": 98,
+            "low": 82,
+            "text": "Partly Cloudy",
+            "code": 30
+        },
+        {
+            "day": "Sat",
+            "date": 1722096000,
+            "high": 96,
+            "low": 82,
+            "text": "Cloudy",
+            "code": 26
+        },
+        {
+            "day": "Sun",
+            "date": 1722182400,
+            "high": 89,
+            "low": 81,
+            "text": "Thunderstorms",
+            "code": 4
+        },
+        {
+            "day": "Mon",
+            "date": 1722268800,
+            "high": 90,
+            "low": 81,
+            "text": "Thunderstorms",
+            "code": 4
+        },
+        {
+            "day": "Tue",
+            "date": 1722355200,
+            "high": 93,
+            "low": 85,
+            "text": "Thunderstorms",
+            "code": 4
+        },
+        {
+            "day": "Wed",
+            "date": 1722441600,
+            "high": 94,
+            "low": 83,
+            "text": "Thunderstorms",
+            "code": 4
+        },
+        {
+            "day": "Thu",
+            "date": 1722528000,
+            "high": 94,
+            "low": 78,
+            "text": "Thunderstorms",
+            "code": 4
+        },
+        {
+            "day": "Fri",
+            "date": 1722614400,
+            "high": 94,
+            "low": 78,
+            "text": "Thunderstorms",
+            "code": 4
+        },
+        {
+            "day": "Sat",
+            "date": 1722700800,
+            "high": 95,
+            "low": 79,
+            "text": "Thunderstorms",
+            "code": 4
+        }
+    ]
+}

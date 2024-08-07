@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WeatherWhiz</title>
+    <link rel="stylesheet" href="src/style.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+    <div id="intro">
+        <div id="tagline">
+            WeatherWhiz 
+            <i class="fa fa-cloud"></i>
+        </div>
+        <p>
+            See Weather Around you and your loved ones....
+        </p>
+        <div id="parameter">
+            <input type="text" id="set_location" placeholder="Enter your city..."></input>
+            <button onclick="locationWeather()">Get</button>
+        </div>
+        <p id="fetch" class="blinking"></p>
+    </div>
+    <div id="display_weather">
+        <div id="Location">Location</div>
+        <div id="Condition">Condition</div>
+        <div id="Wind">Wind</div>
+        <div id="Atmosphere">Atmosphere</div>
+        <div id="Astronomy">Astronomy</div>
+    </div>
+    <div id="confirmation"></div>
+    <footer>
+        Developed by Rahul Morya © 2024 | Connect with me on 
+        <a href="https://linkedin.com//in/rahulmorya" target="_blank">
+            <i class="fa fa-linkedin" style="font-size: 20px" aria-hidden="true"></i>
+        </a>
+        <a href="https://github.com/raahulmorya" target="_blank">
+            <i class="fa fa-github" style="font-size: 20px"></i>
+        </a>
+    </footer>
+    <script src="src/script.js"></script>
+</body>
+</html>
