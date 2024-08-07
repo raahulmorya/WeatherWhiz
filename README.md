@@ -1,6 +1,7 @@
 # WeatherWhiz
 
 WeatherWhiz is a web application that fetches and displays weather data using the Yahoo Weather API. The application provides weather information such as temperature, wind conditions, atmospheric pressure, and astronomical data for any specified city.
+
 Deployed at https://raahulmorya.github.io/WeatherWhiz
 
 ## Features
